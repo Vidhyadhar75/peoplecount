@@ -15,8 +15,8 @@ This project uses **OpenCV and Python** to count the number of people entering a
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/Vidhyadhar75/People-Counting.git  
-   cd People-Counting  
+   git clone https://github.com/Vidhyadhar75/peoplecount.git  
+   cd peoplecount 
    ```  
 2. Install dependencies:  
    ```bash
@@ -28,7 +28,7 @@ This project uses **OpenCV and Python** to count the number of people entering a
 1. Ensure your webcam is connected or a video feed is available.  
 2. Run the tracking script:  
    ```bash
-   python tracker.py  
+   python test.py  
    ```  
 3. The system will display a live feed with a **count overlay**.  
 
